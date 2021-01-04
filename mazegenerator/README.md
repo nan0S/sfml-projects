@@ -5,5 +5,8 @@ No navigation, just watch and enjoy.
 
 Screenshots
 ---
-### Gameplay (generation in progress)
+### Generation done
+![](https://i.imgur.com/oq5gmF7.png)
+
+### Generation in progress
 ![](https://i.imgur.com/ZgqdPsp.png)
